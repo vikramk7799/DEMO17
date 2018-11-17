@@ -117,7 +117,7 @@
               <div class="contents">
                 <h5 class="script-font wow fadeInUp" data-wow-delay="0.2s">Hi This is</h5>
                 <h2 class="head-title wow fadeInUp" data-wow-delay="0.4s">Vikram K</h2>
-                <p class="script-font wow fadeInUp" data-wow-delay="0.6s">Devops product Leaad</p>
+                <p class="script-font wow fadeInUp" data-wow-delay="0.6s">Devops product Lead</p>
                 <ul class="social-icon wow fadeInUp" data-wow-delay="0.8s">
                   <li>
                     <a class="facebook" href="https://www.facebook.com/vikram.kaja"><i class="icon-social-facebook"></i></a>
